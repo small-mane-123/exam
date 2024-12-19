@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+}
+
+#task{
+    font-size: 3rem;
+    text-align: center;
+}
+
+#answer{
+    font-size: 3rem;
+    text-align: center;
+}
+
+button{
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    padding-left: 40px;
+    margin-left: 100px;
+    padding-right: 40px;
+    border-radius: 20px;
+    align-items: center;
+    background-color: black;
+}
+
+.big-container{
+    margin-left: 300px;
+}
